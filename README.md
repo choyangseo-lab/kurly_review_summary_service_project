@@ -17,13 +17,13 @@
 기간 : 2024.07.31~2023.09.07  
 
 프로젝트 과정 및 폴더   
-- 데이터 수집
-- 데이터 전처리
-- 키워드 추출 및 카테고리 선정
-- 카테고리 태깅
-- 감정분석
-- 요약문 생성
-- 웹페이지 구현
+- 데이터 수집 : `data_crawling`
+- 데이터 전처리 : `data_preprocessing`
+- 키워드 추출 및 카테고리 선정 : `keyword_extraction`
+- 카테고리 태깅 : `category_tagging`
+- 감정분석 : `sentiment_analysis`
+- 요약문 생성 : `review_summarization`
+- 웹페이지 구현 : `prototype`
 </br>
 
 
